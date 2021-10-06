@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://kodluyoruz.org.tr) Eğitimi kapsamında açtığım ilk repo.
 
-![Projenin görüntüsü](https://raw.githubusercontent.com/mehmetarikaan/kodluyoruzilkrepo/main/img/git.png)
+![Projenin görüntüsü](https://i.hizliresim.com/1qmxrvb.png)
 
 ## Installation
 
